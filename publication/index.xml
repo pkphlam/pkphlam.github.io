@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Patrick Lam</title>
+    <link>https://pkphlam.github.io/publication/</link>
+    <description>Recent content in Publications on Patrick Lam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Patrick Lam</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Computer-Assisted Keyword and Document Discovery from Unstructured Text</title>
+      <link>https://pkphlam.github.io/publication/keywords/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pkphlam.github.io/publication/keywords/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voter Persuasion in Compulsory Electorates: Evidence from a Field Experiment in Australia</title>
+      <link>https://pkphlam.github.io/publication/actu/</link>
+      <pubDate>Fri, 13 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pkphlam.github.io/publication/actu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Individual Causal Effects</title>
+      <link>https://pkphlam.github.io/publication/dissertation/</link>
+      <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pkphlam.github.io/publication/dissertation/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.patricklam.org/uploads/3/8/2/6/3826399/intro.pdf&#34; target=&#34;_blank&#34;&gt;A Framework for Estimating Individual Causal Effects (ICEs)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.patricklam.org/uploads/3/8/2/6/3826399/simulations.pdf&#34; target=&#34;_blank&#34;&gt;A Simulation Study&lt;/a&gt; &lt;a href=&#34;http://www.patricklam.org/uploads/3/8/2/6/3826399/simappendix.pdf&#34; target=&#34;_blank&#34;&gt;(web appendix)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.patricklam.org/uploads/3/8/2/6/3826399/applications.pdf&#34; target=&#34;_blank&#34;&gt;Estimating ICEs in Two Applications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.patricklam.org/uploads/3/8/2/6/3826399/conclusion.pdf&#34; target=&#34;_blank&#34;&gt;Concluding Remarks and Extensions&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
