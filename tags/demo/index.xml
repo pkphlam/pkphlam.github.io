@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Patrick Lam</title>
-    <link>https://pkphlam.github.io/tags/demo/</link>
+    <link>https://www.patricklam.org/tags/demo/</link>
     <description>Recent content in Demo on Patrick Lam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>External Project</title>
-      <link>https://pkphlam.github.io/project/example-external-project/</link>
+      <link>https://www.patricklam.org/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://pkphlam.github.io/project/example-external-project/</guid>
+      <guid>https://www.patricklam.org/project/example-external-project/</guid>
       <description></description>
     </item>
     
